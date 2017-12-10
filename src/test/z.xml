@@ -1,0 +1,36 @@
+<RECORD>
+    <EXTID>1000159528</EXTID>
+    <PRODUCTIDENT>602</PRODUCTIDENT>
+    <CURRENCYNO>826</CURRENCYNO>
+    <PAN>4567050000226029</PAN>
+    <MBR>003</MBR>
+    <CARDEXTID>CITI567CBC0F47696876E05324F3840AEAew</CARDEXTID>
+    <CANCELDATE>30/11/2019</CANCELDATE>
+    <CRDSTAT>1</CRDSTAT>
+    <ORDERDATE>26/11/2008</ORDERDATE>
+    <NAMEONCARD>Raj Kandikal</NAMEONCARD>
+    <EXTACCOUNT>1653F31899FBF5E05323F3840A77ff</EXTACCOUNT>
+    <ACCTTYPE>01</ACCTTYPE>
+    <ACCTSTAT>3</ACCTSTAT>
+    <ACCOUNTTP>3</ACCOUNTTP>
+    <CARDPROP>
+        <PROP ID="BRANDNAME" VALSTR="21050001"/>
+        <PROP ID="DLCARDREFID" VALSTR="22450067045319"/>
+        <PROP ID="PERSOCODE" VALSTR="124999000000001251000000"/>
+        <PROP ID="DLADDRESSLINE1" VALSTR="RAJ KANDIKAL"/>
+        <PROP ID="DLADDRESSLINE2"
+              VALSTR="!&amp;amp;quot;#$%&amp;amp;amp;&amp;amp;apos;()*+,-./:;&amp;amp;lt;=&amp;amp;gt;?@[\]^_`????????????"/>
+        <PROP ID="DLADDRESSLINE3"
+              VALSTR="&amp;amp;apos;&amp;amp;apos;&amp;amp;quot;&amp;amp;quot;T-?????????&amp;amp;#161;&amp;amp;#162;&amp;amp;#163;&amp;amp;#164;&amp;amp;#165;&amp;amp;#166;&amp;amp;#167;&amp;amp;#168;&amp;amp;#169;&amp;amp;#170;&amp;amp;#171;&amp;amp;#172;&amp;amp;#174;&amp;amp;#175;&amp;amp;#176;&amp;amp;#177;&amp;amp;#178;&amp;amp;#179;&amp;amp;#180;&amp;amp;#181;&amp;amp;#182;&amp;amp;#183;&amp;amp;#184;&amp;amp;#185;&amp;amp;#186;"/>
+        <PROP ID="DLADDRESSLINE4"
+              VALSTR="&amp;amp;#234;&amp;amp;#235;&amp;amp;#236;&amp;amp;#237;&amp;amp;#238;&amp;amp;#239;&amp;amp;#240;&amp;amp;#241;&amp;amp;#242;&amp;amp;#243;&amp;amp;#244; &amp;amp;#166;&amp;amp;#167;&amp;amp;#168;&amp;amp;#169;&amp;amp;#170;&amp;amp;#171;&amp;amp;#172;&amp;amp;#174;&amp;amp;#175;&amp;amp;#176;&amp;amp;#177;&amp;amp;#178;&amp;amp;#179;&amp;amp;#180;&amp;amp;#181;"/>
+        <PROP ID="DLADDRESSLINE5" VALSTR="UK11"/>
+        <PROP ID="DLADDRESSLINE6" VALSTR="GB"/>
+        <PROP ID="DLADDRESSLINE7" VALSTR="null"/>
+        <PROP ID="DLCARDCARRIERGREETING" VALSTR="MISTER"/>
+        <PROP ID="DLISOCOUNTRYCODE" VALSTR="GB"/>
+        <PROP ID="MOBILEPHONENUMBER" VALSTR="0"/>
+        <PROP ID="CARDATC" VALNUM="0"/>
+        <PROP ID="CITIMIGRATION" VALSTR="Y"/>
+    </CARDPROP>
+</RECORD>
